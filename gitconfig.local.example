@@ -1,0 +1,5 @@
+# ~/.gitconfig.local - machine-specific git identity (copy to ~/.gitconfig.local, never commit it)
+# Included at the end of ~/.gitconfig, so values here override the placeholders.
+[user]
+	name = Your Name
+	email = you@example.com

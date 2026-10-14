@@ -1,0 +1,3 @@
+gitconfig	.gitconfig
+gitconfig.local.example	.gitconfig.local.example
+config/git/ignore	.config/git/ignore
